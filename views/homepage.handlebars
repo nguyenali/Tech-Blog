@@ -1,0 +1,10 @@
+{{!-- homepage display blog feed --}}
+<div class="list-group">
+    <div class="post-list">
+        {{#each posts as |post|}}
+    <li>
+        {{> post-info post }}
+    </li>
+    {{/each}}
+    </div>
+</div>
