@@ -4,7 +4,7 @@
 
 ## Purpose:
 
-An MVC structured bllog site that allows developers to publish their blog posts and comment on other waht other developers have posted as well./
+An MVC structured bllog site that allows developers to publish their blog posts and comment on other waht other developers have posted as well.
 
 ## Developers:
 * Ali Nguyen    https://github.com/nguyenali
