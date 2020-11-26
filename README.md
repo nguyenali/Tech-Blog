@@ -1,5 +1,5 @@
 # Tech Blog 
-<img width="587" alt="Screen Shot 2020-10-11 at 8 22 06 PM" src="https://user-images.githubusercontent.com/67357469/95701880-9045ed80-0bff-11eb-9166-8c8415535a12.png">
+<img width="719" alt="Screen Shot 2020-11-25 at 9 52 27 PM" src="https://user-images.githubusercontent.com/67357469/100313058-a79b2900-2f68-11eb-965a-5b74b435c092.png">
 
 
 ## Purpose:
@@ -34,6 +34,10 @@ npm start
 
 Open your browser to http://localhost:3001/.
 
+
+## Deployed URL:
+
+https://arcane-coast-69388.herokuapp.com
 
 
 ## For additional questions please contact me at my email at:
